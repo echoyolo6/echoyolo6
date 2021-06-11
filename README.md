@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on JD Group
+- 🌱 I’m currently learning JAVA
+
+
 ![](https://github-readme-stats.vercel.app/api?username=zhuhh666&show_icons=true&theme=radical)
