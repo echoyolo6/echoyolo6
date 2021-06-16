@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on JD Group
 - 🌱 learning JAVA
-- 😄 Stay funny!
+- 😄 Stay funny
 
 
 ![](https://github-readme-stats.vercel.app/api?username=zhuhh666&show_icons=true&theme=radical)
