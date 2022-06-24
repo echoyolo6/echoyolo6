@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 Working on JD Group
-- 🌱 learning JAVA && REACT
+- 🌱 JAVA && REACT
 - 😄 Nice Attitude
 
 
