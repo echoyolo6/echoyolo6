@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Working on JD Group
+- 🔭 COMAC
 - 🌱 JAVA && REACT
 - 😄 Nice Attitude
 
